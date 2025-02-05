@@ -16,10 +16,10 @@ This project presents an in-depth analysis of credit card transactions and custo
 - **Customer Demographics:** The **40-50** age group generates the highest revenue at **$14M**, while businessmen **($18M)** and graduates **($23M)** contribute the most earnings. Married individuals **($16M)** and high-income earners **($23M)** emerge as the top spenders. Geographically, **Texas, New York, California, Florida, and New Jersey** lead in revenue generation
 
 ## Strategic Recommendations
-• Boost Gold & Platinum card adoption for higher revenue.
-• Promote online payments to increase digital transaction volume.
-• Personalize credit offers for high-income earners & businessmen.
-• Expand in top states with localized marketing.
+- Boost Gold & Platinum card adoption for higher revenue.
+- Promote online payments to increase digital transaction volume.
+- Personalize credit offers for high-income earners & businessmen.
+- Expand in top states with localized marketing.
 
 ## Conclusion
 The Credit Card Transaction & Customer Analysis Dashboards provide valuable insights into transaction trends, customer behavior, and revenue drivers. By leveraging these insights, financial institutions can optimize their product offerings, improve customer engagement, and maximize profitability. Strategic actions such as targeted marketing, personalized credit offerings, and digital payment adoption will help enhance customer experience and drive sustainable growth in the credit card market.
