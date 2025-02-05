@@ -10,14 +10,7 @@ This project presents an in-depth analysis of credit card transactions and custo
 
 ## Key Insights
 
-**Revenue & Transactions:** $57M total revenue, $46M transaction volume, 667K transactions
-**Top Card:** Blue Card dominates with $47M revenue & $37.8M in transactions
-**Spending Trends:** Highest spending on Bills ($14M), Entertainment ($10M), Fuel ($10M), Grocery ($9M), and Food ($8M)
-**Customer Demographics:** 
-• 40-50 age group generates the most revenue ($14M)
-• Businessmen ($18M) & graduates ($23M) contribute highest earnings
-• Married individuals ($16M) & high-income earners ($23M) are top spenders
-• Top States: Texas, New York, California, Florida, and New Jersey
+The **total revenue** generated stands at $57M, with a **transaction volume** of $46M from 667K transactions. The **Blue Card** is the dominant card, contributing $47M in revenue and $37.8M in transactions. Spending trends show the **highest expenditure** in Bills ($14M), Entertainment ($10M), Fuel ($10M), Grocery ($9M), and Food ($8M). The 40-50 **age group** generates the most revenue at $14M, while businessmen ($18M) and graduates ($23M) are the top contributors. Married individuals ($16M) and high-income earners ($23M) are the **primary spenders**. The **top states** for these transactions are Texas, New York, California, Florida, and New Jersey.
 
 ## Strategic Recommendations
 • Boost Gold & Platinum card adoption for higher revenue.
